@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}随机事件与概率}{3}{}%
+\contentsline {section}{\numberline {2}随机变量及其分布}{8}{}%
+\contentsline {section}{\numberline {3}多维随机变量及其分布}{11}{}%
+\contentsline {section}{\numberline {4}大数定律和中心极限定理}{15}{}%
+\contentsline {section}{\numberline {5}统计量及其分布}{15}{}%
+\contentsline {section}{\numberline {6}参数估计}{19}{}%
+\contentsline {section}{\numberline {7}假设检验}{24}{}%
+\contentsline {section}{\numberline {8}方差分析与回归分析}{27}{}%

@@ -1,0 +1,14 @@
+# LaTeX 临时文件
+*.aux *.log *.toc *.synctex.gz *.out *.fls *.fdb_latexmk
+
+# Python 临时文件
+__pycache__/ *.pyc
+
+# 系统文件
+.DS_Store Thumbs.db
+
+# IDE
+.vscode/ .idea/
+
+# 生成的图片/数据（根据你的 cal.py 生成内容调整）
+*.png *.jpg data/ output/
